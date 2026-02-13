@@ -53,4 +53,3 @@ Follow these steps to run the project locally.
 git clone [https://github.com/YOUR_USERNAME/HourVault.git](https://github.com/YOUR_USERNAME/HourVault.git)
 cd HourVault
 
-![Dashboard View](./assets/screenshot1.png)
