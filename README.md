@@ -50,9 +50,6 @@ Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/HourVault.git](https://github.com/YOUR_USERNAME/HourVault.git)
+git clone [https://github.com/smdh05/HourVault.git](https://github.com/smdh05/HourVault.git)
 cd HourVault
 
-<img width="1920" height="933" alt="Screenshot 2026-02-06 120903" src="https://github.com/user-attachments/assets/2b7fcd63-369c-4cfa-bd47-48dbe7f58fc2" />
-<img width="1920" height="861" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/e2d96ca7-c185-4ba0-9f25-963a5bd0da3c" />
-<img width="1920" height="837" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/57f61b4d-6d25-4d0d-8bae-6de01efd6333" />
