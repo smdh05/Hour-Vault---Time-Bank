@@ -50,8 +50,7 @@ Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
 ```bash
+git clone [https://github.com/YOUR_USERNAME/HourVault.git](https://github.com/YOUR_USERNAME/HourVault.git)
+cd HourVault
 
-
-<img width="1920" height="933" alt="Screenshot 2026-02-06 120903" src="https://github.com/user-attachments/assets/dbc3bac7-9f2c-4681-851b-966a3ef81b72" />
-<img width="1920" height="861" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/c72fe41e-e463-4aec-a9c1-5a2939e5d1a2" />
-<img width="1920" height="837" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/18166172-6ff7-46c0-a5bb-12b3f49ad387" />
+![Dashboard View](./assets/screenshot1.png)
